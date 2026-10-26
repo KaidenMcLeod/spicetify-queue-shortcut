@@ -4,5 +4,5 @@
      "preview": "preview.png",
      "main": "queueShortcut.js",
      "readme": "README.md",
-     "authors": [{ "name": "Raiden", "url": "https://github.com/KaidenMcLeod/spicetify-queue-shortcut" }]
+     "authors": [{ "name": "Raiden", "url": "https://github.com/KaidenMcLeod" }]
    }
