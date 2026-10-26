@@ -4,6 +4,6 @@
      "preview": "preview.png",
      "main": "queueShortcut.js",
      "readme": "README.md",
-      "tags": ["queue", "keyboard", "shortcut"]
+     "tags": ["queue", "keyboard", "shortcut"],
      "authors": [{ "name": "Raiden", "url": "https://github.com/KaidenMcLeod" }]
    }
