@@ -1,6 +1,6 @@
    {
      "name": "Add to Queue Shortcut",
-     "description": "Press Q to add the hovered or selected track/s to the queue.",
+     "description": "Press Q to add the hovered or selected song/s to the queue.",
      "preview": "preview.png",
      "main": "queueShortcut.js",
      "readme": "README.md",
